@@ -9,6 +9,10 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    func addTwoNumbers (numA: Int, numB: Int) -> Int {
+        return numA + numB
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
