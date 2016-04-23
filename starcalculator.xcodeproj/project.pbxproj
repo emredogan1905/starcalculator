@@ -12,6 +12,7 @@
 		63016AB81CCACFEC00201C15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63016AB61CCACFEC00201C15 /* Main.storyboard */; };
 		63016ABA1CCACFEC00201C15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63016AB91CCACFEC00201C15 /* Assets.xcassets */; };
 		63016ABD1CCACFEC00201C15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63016ABB1CCACFEC00201C15 /* LaunchScreen.storyboard */; };
+		63016AC61CCAE38400201C15 /* Starjedi2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63016AC51CCAE38400201C15 /* Starjedi2.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		63016AB91CCACFEC00201C15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63016ABC1CCACFEC00201C15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63016ABE1CCACFEC00201C15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63016AC51CCAE38400201C15 /* Starjedi2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Starjedi2.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		63016AB11CCACFEC00201C15 /* starcalculator */ = {
 			isa = PBXGroup;
 			children = (
+				63016AC51CCAE38400201C15 /* Starjedi2.ttf */,
 				63016AB21CCACFEC00201C15 /* AppDelegate.swift */,
 				63016AB41CCACFEC00201C15 /* ViewController.swift */,
 				63016AB61CCACFEC00201C15 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63016ABD1CCACFEC00201C15 /* LaunchScreen.storyboard in Resources */,
+				63016AC61CCAE38400201C15 /* Starjedi2.ttf in Resources */,
 				63016ABA1CCACFEC00201C15 /* Assets.xcassets in Resources */,
 				63016AB81CCACFEC00201C15 /* Main.storyboard in Resources */,
 			);
