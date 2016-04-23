@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var check = 5
 
     override func viewDidLoad() {
         super.viewDidLoad()
